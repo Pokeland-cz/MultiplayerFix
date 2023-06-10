@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: multiplayerfix
+MixinConfigs: multiplayerfix.mixins.json
+Implementation-Version: 1.0
+Specification-Title: multiplayerfix
+Implementation-Timestamp: 2023-06-10T21:03:56+0200
+Specification-Version: 1
+

@@ -1,0 +1,1 @@
+cz/pokeland/multiplayerfix/mixin/client/MinecraftMixin func_244735_a (Lcom/mojang/authlib/yggdrasil/YggdrasilAuthenticationService;Lnet/minecraft/client/GameConfiguration;)Lcom/mojang/authlib/minecraft/SocialInteractionsService; func_244735_a

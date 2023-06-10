@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cz.pokeland.multiplayerfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "multiplayerfix.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "client.MinecraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
